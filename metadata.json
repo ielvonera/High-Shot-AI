@@ -1,0 +1,7 @@
+{
+  "name": "High Shot AI - Commercial Fashion Generator",
+  "description": "Professional AI-driven platform for commercial fashion and product photography. Place products onto models with photorealistic results for E-commerce and Social Media.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
